@@ -8,4 +8,7 @@ public class SocketConstants {
      * 蓝牙配对密码
      */
     public static final String BLUETOOTH_PAIR_PASSWORD="0000";
+
+
+    public static final String DEBUG_TAG="@@@@@@@@@";
 }
